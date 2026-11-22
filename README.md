@@ -1,8 +1,9 @@
 # Erik Bertrand
 
 Full-stack software engineer based in the northeast USA. Twenty-plus years building for
-the web, fifteen of them in enterprise engineering at Dyn and Oracle. I now run
-[Ascent Web Solutions](https://ascentwebs.com), a boutique web studio, and built
+the web, fifteen of them in enterprise engineering at Dyn and Oracle. Currently on the
+job market for permanent or contract roles. I also run
+[Ascent Web Solutions](https://ascentwebs.com), a freelance web studio, and built
 and released [SyteCheck](https://sytecheck.app), an online service of my own that
 checks websites for accessibility, security, performance, and more.
 
